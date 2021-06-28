@@ -25,5 +25,5 @@ a=3
 A='3'
 # this are not same Variables 
 #A will not overwrite a
-print(id(a))
-print(id(A))
+# print(id(a))
+# print(id(A))
