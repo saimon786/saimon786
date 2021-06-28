@@ -9,7 +9,7 @@ Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
  """
 
-from typing import Mapping
+
 
 
 x = "A text Data in store in x veriables "
@@ -33,6 +33,6 @@ print(s)
 
 xx = frozenset({"apple", "banana", "cherry"})
 print(xx)
-    
+
 xc = b"Hello" 
 print(xc)
